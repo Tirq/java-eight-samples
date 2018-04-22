@@ -15,4 +15,8 @@ public class Player {
 		System.out.println("The player name is: " + name);
 	}
 
+	public void printNumber() {
+		System.out.println("The player number is: " + number);
+	}
+
 }

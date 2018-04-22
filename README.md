@@ -1,9 +1,15 @@
-This is a resume about the java eight functionalities based on the book "Java 8 Prático - Lambdas, Streams e os novos recursos" from casa do código.
+# java-eight-samples
 
-The two main objectives from this project are:
-* To learn the new functionalities and the concepts inside the java 8.
-* To improve my English level.
+First of all, welcome and enjoy... 
 
-I wrote a detailed wiki, explaining all details about the subject, I recommend you see the source code but too read the wiki. 
 
-Sorry if you note some mistake and please tell me, I will fix it and learn with this situation. ;)
+This is a resume about the java eight functionalities based on the book **"Java 8 Prático - Lambdas, Streams e os Novos Recursos"** from Casa do código. 
+
+ The two main objectives of this project are:
+* To learn the new functionalities and the concepts of the Java 8.
+* To improve my English level.  
+
+**I wrote a detailed wiki, explaining all details about the subject, I recommend you see the source code but read the wiki too. Enjoy it and do not forget to tell me what do you think!**  
+
+Please sorry if you note some mistake and please tell me, I will fix it and learn with this situation. ;)
+
